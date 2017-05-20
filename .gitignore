@@ -1,0 +1,24 @@
+
+# Files #
+*.obj
+*.pdb
+*.exe
+*.ilk
+MinionBattleGame.sdf
+
+# Folders #
+.vs/
+/[Xx]64
+/[Dd]ebug
+/[Mm]inionBattleGame/x64
+/[Mm]inionBattleGame/Debug
+ 
+# OS generated #
+
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+/[Tt]humbs.db
+/[Dd]esktop.ini
